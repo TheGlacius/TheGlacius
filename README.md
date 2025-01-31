@@ -26,7 +26,6 @@ Welcome to my GitHub! I’m passionate about **software and cloud architecture**
 
 ## 📫 How to Reach Me:
 - Email: [core.glacius@gmail.com](mailto:core.glacius@gmail.com)
-- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/eduard-markgraf)
 
 ---
 
