@@ -1,8 +1,13 @@
-# Software Architect & Cloud Engineer | Focused on Clean Architecture, DDD, and Scalable Systems
+# Software Architect & Cloud Engineer
 
-I design maintainable, cloud-native solutions with a strong emphasis on cleanliness, efficiency, and long-term scalability. Passionate about software architecture, distributed systems, and writing clean, structured code.
-- Tech Stack: .NET, Go, AWS, Kubernetes, Terraform
-- Interests: System Design, DDD, Cloud-Native Applications
-- Blog: glacius.org – Sharing insights on software design & architecture
+Passionate about clean architecture, domain-driven design (DDD), and cloud-native development. My focus is on designing robust, efficient, and future-proof software solutions.
 
-Always open to discussions on architecture, system design, and engineering best practices.
+## Key Areas
+
+- Software Architecture – Structuring scalable and maintainable systems.
+- Cloud Engineering – AWS, Kubernetes, and distributed systems.
+- Clean Code & DDD – Writing structured, maintainable code for long-term success.
+
+Sharing insights on software design, system architecture, and engineering best practices at glacius.org.
+
+Always open to discussions on architecture, system design, and cloud technologies.
