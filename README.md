@@ -1,6 +1,6 @@
 # Software Architect & Cloud Engineer
 
-Passionate about clean architecture, domain-driven design (DDD), and cloud-native development. My focus is on designing robust, efficient, and future-proof software solutions.
+Passionate about clean architecture, domain-driven design (DDD), and cloud-native development. My focus is on designing clean, efficient, and future-proof software solutions.
 
 ## Key Areas
 
