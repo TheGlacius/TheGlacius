@@ -1,33 +1,8 @@
-# 👋 Hi, I’m Glacius
+# Software Architect & Cloud Engineer | Focused on Clean Architecture, DDD, and Scalable Systems
 
-Welcome to my GitHub! I’m passionate about **software and cloud architecture**, with a strong focus on simplicity, clean code, and well-structured designs.
+I design maintainable, cloud-native solutions with a strong emphasis on cleanliness, efficiency, and long-term scalability. Passionate about software architecture, distributed systems, and writing clean, structured code.
+- Tech Stack: .NET, Go, AWS, Kubernetes, Terraform
+- Interests: System Design, DDD, Cloud-Native Applications
+- Blog: glacius.org – Sharing insights on software design & architecture
 
----
-
-## 👀 Interests:
-- **Cloud Architecture**: Designing scalable, resilient, and secure systems
-- **Software Architecture**: Crafting clean and maintainable solutions
-- **Design Patterns**: Applying proven techniques for better code and architecture
-
----
-
-## 🌱 Currently Learning:
-- **Advanced Cloud Architecture**: Exploring multi-cloud strategies and best practices
-- **Infrastructure-as-Code (IaC)**: Improving my expertise in tools like Terraform and AWS CloudFormation
-- **Kubernetes**: Enhancing skills in container orchestration and scalability
-
----
-
-## 💞️ Looking to Collaborate On:
-- **Cloud Projects**: Open-source tools and projects in cloud infrastructure or DevOps
-- **Software Design**: Clean code initiatives and design pattern implementations
-
----
-
-## 📫 How to Reach Me:
-- Email: [core.glacius@gmail.com](mailto:core.glacius@gmail.com)
-
----
-
-Thanks for visiting my profile! 🚀
-
+Always open to discussions on architecture, system design, and engineering best practices.
